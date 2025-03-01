@@ -1,2 +1,0 @@
-# technex
-technex
